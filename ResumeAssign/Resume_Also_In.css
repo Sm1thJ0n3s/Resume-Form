@@ -1,0 +1,55 @@
+.resume_page{
+    box-shadow: 20px 20px 20px; width: 1000px; height: 1250px; margin: auto;
+}
+
+.top_pg1{
+    background-color: #00ab44; border: 1px solid #00ab44; margin: 33px 55px 0px 55px; height: 20px;
+}
+
+.real_name{
+    font-size:64px; margin: -1px 0px 0px 55px;
+}
+
+.phone_number{
+    color: #666666; margin: -5px 0px 0px 55px;
+}
+
+.email{
+    color: #666666; margin: 0px 0px 34px 55px;
+}
+
+.working_info{
+    color:#00ab44; margin: 0px 0px 0px 55px;
+}
+
+.my_skills{
+    column-count: 3; margin: 54px 0px 28px 55px;
+}
+
+.once_worked-certificates{
+    margin: 20px 0px 0px 55px; font-size: 20px; font-style: italic; color:#666666;
+}
+.work_location-school_name{
+    font-style: normal; color:black;
+}
+
+.time_period{
+    color:#666666; font-size:16px; margin: 3px 0px 0px 55px;
+}
+
+.responsibilities{
+    margin: 7px 0px 35px 55px;
+}
+
+.bottom_of_education {
+    margin: 0px 0px 50px 55px; color:#666666; font-size:16px;
+}
+
+.accomplishments {
+    margin: 24px 0px 0px 55px;
+}
+
+
+
+
+
